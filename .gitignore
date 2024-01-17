@@ -1,0 +1,5 @@
+*.o
+
+lena_copy.ppm
+
+/zoom
